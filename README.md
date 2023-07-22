@@ -1,0 +1,1 @@
+this is just a repo about using ansible roles and using collections in code. skipped the part of creating a role. just adding the code here. did not practice that part.
